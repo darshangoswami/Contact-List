@@ -42,5 +42,5 @@ This project is a full-stack web application built using Flask for the backend a
    ```
 3. Start the React development server:
    ```
-   npm start
+   npm run dev
    ```
