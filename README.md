@@ -28,7 +28,7 @@ This project is a full-stack web application built using Flask for the backend a
    
 4. Run the Flask application:
    ```
-   flask run
+   python3 main.py
    ```
 
 ### Frontend Setup
