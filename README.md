@@ -1,5 +1,5 @@
 # Full Stack Application with Flask and React
-This project is a full-stack web application built using Flask for the backend and React for the front end. The application demonstrates a complete end-to-end web development workflow with a modern tech stack.
+This project is a full-stack web contact list built using Flask for the backend and React for the front end. The application demonstrates a complete end-to-end web development workflow with a modern tech stack.
 
 ## Features
 - Backend: Flask framework for handling server-side logic.
@@ -44,3 +44,7 @@ This project is a full-stack web application built using Flask for the backend a
    ```
    npm run dev
    ```
+
+## Usage
+- Access the Flask backend at http://localhost:5000.
+- Access the React frontend at the provided port.
