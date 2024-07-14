@@ -6,3 +6,41 @@ This project is a full-stack web application built using Flask for the backend a
 - Frontend: React framework for building user interface powered by ViteJS for speedy builds and bundling.
 - Database: SQLAlchemy integration with a database to store application data.
 - API: RESTful API endpoints to interact with the front end.
+
+
+## Installation
+### Prerequisites
+- Python 3.x
+- Node.js and npm
+
+### Backend Setup
+1. Navigate to the backend directory:
+   ```
+   cd backend
+   ```
+2. Create a virtual environment and activate it:
+   ```
+   python -m venv venv
+   source venv/bin/activate
+
+   ```
+3. Configure your database settings in config.py.
+   
+4. Run the Flask application:
+   ```
+   flask run
+   ```
+
+### Frontend Setup
+1. Navigate to the frontend directory:
+   ```
+   cd frontend
+   ```
+2. Install the required dependencies:
+   ```
+   npm install
+   ```
+3. Start the React development server:
+   ```
+   npm start
+   ```
